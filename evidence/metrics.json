@@ -1,0 +1,30 @@
+[
+  {
+    "tickets_in_scope":11641,
+    "excluded_pre_window":139,
+    "billing_share_current_tag":0.2083154368,
+    "largest_team_by_volume":"Chat Frontline",
+    "chat_volume":3030,
+    "billing_volume":2425,
+    "logistics_volume":1905,
+    "billing_rostered_agents":4,
+    "chat_rostered_agents":15,
+    "billing_tickets_per_agent_month_full_18mo":33.6805555556,
+    "chat_tickets_per_agent_month_full_18mo":11.2222222222,
+    "billing_tickets_per_agent_month_current_helpdesk":40.9316797737,
+    "chat_tickets_per_agent_month_current_helpdesk":14.4530689556,
+    "billing_tickets_per_agent_month":40.9316797737,
+    "chat_tickets_per_agent_month":14.4530689556,
+    "billing_transfer_rate_current_helpdesk":0.3196405648,
+    "billing_transfers":498,
+    "billing_transfer_events":632.0,
+    "billing_explicit_nonbilling_handoffs":384,
+    "billing_explicit_nonbilling_share":0.7710843373,
+    "billing_logistics_handoffs":365,
+    "current_helpdesk_sla_breach_rate":0.1085662526,
+    "current_helpdesk_sla_breaches":839,
+    "annual_avoided_transfers_at_20pct":235.0602857965,
+    "annual_transfer_cost_avoidance_at_20pct":71693.3871679294,
+    "annual_explicit_nonbilling_handoffs":484.2443655893
+  }
+]
